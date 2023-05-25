@@ -9,7 +9,7 @@ export default function Layout( { children } ) {
         <>
             <Head>
                 <link rel="shortcut icon" href="/favicon.svg" />
-                <title>Jussi store para JR</title>
+                <title>Site do Meu Amor</title>
             </Head>
             <Header/>
                 <main>{children}</main>
