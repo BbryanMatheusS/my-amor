@@ -41,6 +41,7 @@ export default function HomePagem() {
         img="/img/pictures/foto6.jpg"
       />
       
+      
     </>
   );
 }
